@@ -1,6 +1,10 @@
 require_relative '../binary_search'
 require_relative '../selection_sort'
 require_relative '../insertion_sort'
+require_relative '../brackets'
+require_relative '../anagram_palindrome'
+require_relative '../triangles'
+
 require 'yaml'
 require 'byebug'
 require 'benchmark'
